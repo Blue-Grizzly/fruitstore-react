@@ -1,3 +1,6 @@
+Small side project for school testing out different things in react.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
